@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Lambda", "01_Lambda\01_Lambda.csproj", "{810F071B-2D18-4643-9D10-BA2F1246EED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_LambdaForms", "02_LambdaForms\02_LambdaForms.csproj", "{AA52C8C5-04D3-43C3-A1F4-5B44636B016B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_LambdaWithLINQ", "03_LambdaWithLINQ\03_LambdaWithLINQ.csproj", "{5DF6A76D-FAFE-4451-BE88-5089BBF1D48B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_LambdaWithManualLINQ", "04_LambdaWithManualLINQ\04_LambdaWithManualLINQ.csproj", "{AB30D17F-F053-4FB5-BECA-277E41540788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_LambdaClosures", "05_LambdaClosures\05_LambdaClosures.csproj", "{DE2C23A6-1C2A-4FFB-8804-4E94AA55C4E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_LambdaClosures", "06_LambdaClosures\06_LambdaClosures.csproj", "{1D839C5F-0750-402C-A8DA-9804E0F10847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_LambdaClosures", "07_LambdaClosures\07_LambdaClosures.csproj", "{C82EBA10-21F0-4E42-9EED-1AB094EC6A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{810F071B-2D18-4643-9D10-BA2F1246EED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810F071B-2D18-4643-9D10-BA2F1246EED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810F071B-2D18-4643-9D10-BA2F1246EED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810F071B-2D18-4643-9D10-BA2F1246EED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA52C8C5-04D3-43C3-A1F4-5B44636B016B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA52C8C5-04D3-43C3-A1F4-5B44636B016B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA52C8C5-04D3-43C3-A1F4-5B44636B016B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA52C8C5-04D3-43C3-A1F4-5B44636B016B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF6A76D-FAFE-4451-BE88-5089BBF1D48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF6A76D-FAFE-4451-BE88-5089BBF1D48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF6A76D-FAFE-4451-BE88-5089BBF1D48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF6A76D-FAFE-4451-BE88-5089BBF1D48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB30D17F-F053-4FB5-BECA-277E41540788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB30D17F-F053-4FB5-BECA-277E41540788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB30D17F-F053-4FB5-BECA-277E41540788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB30D17F-F053-4FB5-BECA-277E41540788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2C23A6-1C2A-4FFB-8804-4E94AA55C4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2C23A6-1C2A-4FFB-8804-4E94AA55C4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2C23A6-1C2A-4FFB-8804-4E94AA55C4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2C23A6-1C2A-4FFB-8804-4E94AA55C4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D839C5F-0750-402C-A8DA-9804E0F10847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D839C5F-0750-402C-A8DA-9804E0F10847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D839C5F-0750-402C-A8DA-9804E0F10847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D839C5F-0750-402C-A8DA-9804E0F10847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82EBA10-21F0-4E42-9EED-1AB094EC6A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82EBA10-21F0-4E42-9EED-1AB094EC6A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82EBA10-21F0-4E42-9EED-1AB094EC6A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82EBA10-21F0-4E42-9EED-1AB094EC6A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
